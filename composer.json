@@ -1,11 +1,11 @@
 {
-  "name": "satis_demo/helloworld",
+  "name": "hughtan/helloworld",
   "description": "test the private repository",
   "license": "MIT",
   "authors": [
     {
-      "name": "zyj10",
-      "email": "2283578495@qq.com"
+      "name": "hughtan",
+      "email": "hughtan@foxmail.com"
     }
   ],
   "require":{
