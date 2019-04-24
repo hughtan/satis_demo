@@ -1,0 +1,20 @@
+{
+  "name": "satis_demo/helloworld",
+  "description": "test the private repository",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "zyj10",
+      "email": "2283578495@qq.com"
+    }
+  ],
+  "require":{
+    "php":">=5.4.0",
+    "phpunit/php-timer":"*"
+  },
+  "autoload": {
+    "psr-4": {
+      "Hello\\": "Hello/"
+    }
+  }
+}
