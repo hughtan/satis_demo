@@ -14,7 +14,8 @@
   },
   "require-dev":{
     "phpunit/phpunit": "~5.7",
-    "meyfa/phpunit-assert-gd": "1.1.0"
+    "meyfa/phpunit-assert-gd": "1.1.0",
+    "filp/whoops": "^2.0"
   },
   "autoload": {
     "psr-4": {
